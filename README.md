@@ -1,5 +1,5 @@
 # Authentication with Golang (Testing)
-I'm learning about go and this time I want to learn about Authentication with Go
+I'm learning about go and this time I want to learn about Authentication with Go you can clone my github or follow typing code up to ypu
 In this Code when you run
 ```
 go run main.go
@@ -13,4 +13,6 @@ You need to go HTTP Header
 Check testbox and typing
 ```
 Authorization : yourtoken
+if you clone use :
+Authorization : harit123Pass
 ```
