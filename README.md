@@ -1,5 +1,5 @@
 # Authentication with Golang (Testing)
-I'm learning about go and this time I want to learn about Authentication with Go you can clone my github or follow typing code up to ypu
+I'm learning about go and this time I want to learn about Authentication with Go you can clone my github or follow typing code up to you
 In this Code when you run
 ```
 go run main.go
