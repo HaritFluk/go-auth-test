@@ -4,7 +4,7 @@ In this Code when you run
 ```
 go run main.go
 ```
-And you will chek in Postman or Thunder client please typing: 
+And you will chek in Postman or [Thunder client] in VSCode please typing: 
 ```
 localhost:8080/messages
 ```
